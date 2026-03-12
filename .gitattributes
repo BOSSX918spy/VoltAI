@@ -1,0 +1,5 @@
+*.roff linguist-vendored
+*.1 linguist-vendored
+*.man linguist-vendored
+*.ps1 linguist-generated
+*.sh linguist-generated
