@@ -1,0 +1,103 @@
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.python-version
+
+# ----------------------------
+# Jupyter / notebooks
+# ----------------------------
+.ipynb_checkpoints
+
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
+
+# ----------------------------
+# Environment variables
+# ----------------------------
+.env
+.env.*
+*.env
+
+# ----------------------------
+# Model files / AI artifacts
+# ----------------------------
+*.pt
+*.pth
+*.bin
+*.gguf
+*.safetensors
+*.ckpt
+models/
+checkpoints/
+
+# ----------------------------
+# Vector databases
+# ----------------------------
+faiss_index/
+*.faiss
+*.index
+vector_store/
+
+# ----------------------------
+# Data / embeddings
+# ----------------------------
+data/
+datasets/
+embeddings/
+
+# ----------------------------
+# Temporary files
+# ----------------------------
+*.tmp
+*.temp
+tmp/
+temp/
+
+# ----------------------------
+# IDE / Editor
+# ----------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ----------------------------
+# OS files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Gradio / local runtime
+# ----------------------------
+gradio_cached_examples/
+gradio_tmp/
+
+# ----------------------------
+# Mac / Linux misc
+# ----------------------------
+.AppleDouble
+.LSOverride
