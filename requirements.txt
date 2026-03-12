@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain-ollama
+gradio
+faiss-cpu
+sentence-transformers
+matplotlib
